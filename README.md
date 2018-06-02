@@ -53,12 +53,12 @@ Download  .zip, .tar, .tar.gz or .tar compressed package, decompress it to targe
 
 ## Status
 
-The  project is working and is possible to see the posts list, create a new post and delete a post. The application navigates throught the different components using React-Roter, no extra HTTP calls are needed to render the different components.
+The  project is working and it is possible to see the posts list, create a new post and delete a post. The application navigates throught the different components using React-Roter, no extra HTTP calls are needed to render the different components.
 
 The store is binded to Redux Promise middleware to assure correct functioning of async Api calls.
 
-![](./messagesApp_posts_lists)
+![](./messagesApp_posts_lists.png)
 
-![](./messagesApp_show_post)
+![](./messagesApp_show_post.png)
 
-![](./messagesApp_new_post)
+![](./messagesApp_new_post.png)
